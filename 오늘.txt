@@ -1,0 +1,21 @@
+<2020.2.10 오전>
+
+기본 셋업
+
+깃허브 계정(이메일 필수)
+github.com/Taeung/git-training
+- tutorial v3
+- example code v2
+
+* 의미 있는 단위로 커밋하는 것이 좋다
+
+git config을 한다. 나의 계정이메일, username을 입력한다.
+
+-- commit 따라하기 --
+
+터미널은 q나 ctrl+c키로 나갈 수 있다.
+
+이후는 계속 따라하기 실습 (인터넷 강의에서 했던 것을 git bash에서 해봄)
+
+
+<2020.2.10 오후>
